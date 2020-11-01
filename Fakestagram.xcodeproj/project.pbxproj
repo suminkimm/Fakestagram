@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02831E29254E5572004408BD /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02831E28254E5572004408BD /* CommentCell.swift */; };
 		02AE37DF254104F0000D5888 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AE37DE254104F0000D5888 /* AppDelegate.swift */; };
 		02AE37E1254104F0000D5888 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AE37E0254104F0000D5888 /* SceneDelegate.swift */; };
 		02AE37E6254104F0000D5888 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02AE37E4254104F0000D5888 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		02831E28254E5572004408BD /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		02AE37DB254104F0000D5888 /* Fakestagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fakestagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02AE37DE254104F0000D5888 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02AE37E0254104F0000D5888 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				02AE37DE254104F0000D5888 /* AppDelegate.swift */,
 				02AE37E0254104F0000D5888 /* SceneDelegate.swift */,
 				02AE37E4254104F0000D5888 /* Main.storyboard */,
+				02831E28254E5572004408BD /* CommentCell.swift */,
 				02AE37F8254112C7000D5888 /* PostCell.swift */,
 				02AE37E7254104F5000D5888 /* Assets.xcassets */,
 				02AE37E9254104F5000D5888 /* LaunchScreen.storyboard */,
@@ -221,6 +224,7 @@
 				02AE37F525410681000D5888 /* FeedViewController.swift in Sources */,
 				02AE37E1254104F0000D5888 /* SceneDelegate.swift in Sources */,
 				02AE37F9254112C7000D5888 /* PostCell.swift in Sources */,
+				02831E29254E5572004408BD /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
